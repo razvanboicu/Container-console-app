@@ -1,2 +1,5 @@
 # container-console-app
-CRUD, Console options management, idk
+Java time!!!
+Database with CRUD;
+Console options management;
+idk;
